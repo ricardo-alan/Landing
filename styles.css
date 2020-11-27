@@ -1,0 +1,50 @@
+*{
+    overflow: hidden;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.fw300{
+    font-weight: 300;
+}
+
+.fw400{
+    font-weight: 400;
+}
+
+.fw600{
+    font-weight: 600;
+}
+
+.fw900{
+    font-weight: 900;
+}
+
+.s7{
+    font-size: 7rem;
+}
+
+.s3{
+    font-size: 2.7rem;
+    letter-spacing: 15px;
+}
+
+.s2{
+    font-size: 1.6rem;
+}
+
+.cool-btn{
+    background-color: transparent;
+    color: #fff;
+    padding: .5rem 1rem;
+    border: 1px solid #fff;
+    font-size: 1.5rem;
+    width: 35%;
+    transition: 0.3s
+}
+
+.cool-btn:hover{
+    transform: translateY(-10px);
+    background-color: #fff;
+    color: #000
+}
+
